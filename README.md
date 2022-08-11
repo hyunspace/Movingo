@@ -46,19 +46,19 @@
 
 ## 기획
 
-#### 와이어 프레임
+### 와이어 프레임
 
 > 🔗 [Figma에서 보기](https://www.figma.com/file/8F1TMhhoPmlVA0Xz0zLpu3/Movie-(comments))
 
 <img title="" src="https://user-images.githubusercontent.com/97397013/184058957-782212d2-fe99-4587-b9ee-508c3fd0e65d.png" alt="">
 
-#### UI 디자인
+### UI 디자인
 
 > 🔗 [Figma에서 보기](https://www.figma.com/file/fsy8tkBIJFXSSt1q9EXWjL/Movie-Mockup)
 
 <img title="" src="https://user-images.githubusercontent.com/97397013/184058956-34e53d28-253e-420c-b5ce-e9101854236c.png" alt="">
 
-#### ERD
+### ERD
 
 > 🔗 [ERD Cloud에서 보기](https://www.erdcloud.com/d/cKPExZvFtW6g7PvLb")
 
@@ -68,7 +68,7 @@
 
 ## 주요 기능
 
-#### 영화 추천
+### 영화 추천
 
 * 메인 : 다양한 주제의 영화 추천 및 영화 상세 정보 제공
 
@@ -76,7 +76,7 @@
 
 * 빙고 : 매달 업데이트 되는 빙고를 통한 영화 추천
 
-#### 소통
+### 소통
 
 * 리뷰 : 영화 상세 페이지에서 해당 영화의 리뷰 작성 및 확인
 
@@ -122,29 +122,29 @@
 
 ## 서비스 구조
 
-#### DOM Tree
+### DOM Tree
 
 > 🔗 Figma에서 보기
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/97397013/184063601-3c92d2a9-c590-4ff6-bf54-9b90b48484d9.png">
 
 <br/>
 
 ## 시작하기
 
-#### Front-End
+### Front-End
 
 ```bash
 $
 ```
 
-#### Back-End
+### Back-End
 
 ```bash
 $
 ```
 
-#### 배포
+### 배포
 
 ```bash
 $
