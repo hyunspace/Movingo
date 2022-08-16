@@ -1,7 +1,5 @@
 # Movingo 🎞 무빙고
 
-
-
 <img title="" src="https://user-images.githubusercontent.com/97397013/184058950-b864bb43-8aec-4c43-8b7c-efe35ed02dc4.png" alt="">
 
 <br/>
@@ -71,16 +69,28 @@
 ### 영화 추천
 
 * 메인 : 다양한 주제의 영화 추천 및 영화 상세 정보 제공
+  
+  <img title="" src="https://user-images.githubusercontent.com/97397013/184762981-0c84502e-3ad6-4e7d-b5d1-a31b89881dd1.png" alt="">
+  
+  <img src="https://user-images.githubusercontent.com/97397013/184763004-f8b08373-0796-4598-8ba5-f0239189247b.png"/>
 
 * 컬렉션 : 유저들이 다양한 주제로 생성한 영화 컬렉션
+  
+  <img src="https://user-images.githubusercontent.com/97397013/184763094-763b17b0-c2e9-4eb1-aae2-61bfdd035460.png"/>
 
 * 빙고 : 매달 업데이트 되는 빙고를 통한 영화 추천
+  
+  <img src="https://user-images.githubusercontent.com/97397013/184765622-e059ad4e-f8e8-431e-b02b-8440953c970a.png"/>
 
 ### 소통
 
 * 리뷰 : 영화 상세 페이지에서 해당 영화의 리뷰 작성 및 확인
+  
+  <img src="https://user-images.githubusercontent.com/97397013/184763010-7329950a-0c52-4521-b452-0c9ba58ff470.png"/>
 
 * 커뮤니티 : 한 영화에 대한 이야기를 나눌 수 있는 공간
+  
+  <img src="https://user-images.githubusercontent.com/97397013/184763207-434bc6cf-2485-4b89-b63e-5383e40c8773.png"/>
 
 <br/>
 
@@ -124,9 +134,13 @@
 
 ### DOM Tree
 
-> 🔗 Figma에서 보기
+> 🔗 [Figma에서 보기](https://www.figma.com/file/hNgap1d79ndbeaE2czkQFq/Movie_DOMtree?node-id=0%3A1)
 
+<<<<<<< HEAD
+<img title="" src="https://user-images.githubusercontent.com/97397013/184063601-3c92d2a9-c590-4ff6-bf54-9b90b48484d9.png" alt="">
+=======
 <img src="https://user-images.githubusercontent.com/97397013/184063601-3c92d2a9-c590-4ff6-bf54-9b90b48484d9.png">
+>>>>>>> f4dd040a156af9a63c9f3592c983c280e66490f2
 
 <br/>
 
@@ -153,3 +167,21 @@ $
 <br/>
 
 ## 만든 사람들
+
+* 팀장: 이재준
+  
+  * `Back-End`
+  
+  * `Front-End`
+  
+  * [깃허브](https://github.com/jayl2sw)
+
+* 팀원: 김지현 | [at.hyunspace@gmail.com](mailto:at.hyunspace@gmail.com)
+  
+  * `Front-End`
+  
+  * `Back-End`
+  
+  * [깃허브](https://github.com/hyunspace/)
+  
+  * [노션 이력서](https://dev-hyun-resume.notion.site/b7bb8c77c85545329c7eca57087413c2)
