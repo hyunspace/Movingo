@@ -67,20 +67,26 @@
 ### 영화 추천
 
 * **메인** : 다양한 주제의 영화 추천 및 영화 상세 정보 제공
-  
+
   <img title="" src="https://user-images.githubusercontent.com/97397013/184762981-0c84502e-3ad6-4e7d-b5d1-a31b89881dd1.png" alt="">
-  
+
   <img src="https://user-images.githubusercontent.com/97397013/184763004-f8b08373-0796-4598-8ba5-f0239189247b.png"/>
 
 * **컬렉션** : 유저들이 다양한 주제로 생성한 영화 컬렉션
-  
+
   <img src="https://user-images.githubusercontent.com/97397013/184763094-763b17b0-c2e9-4eb1-aae2-61bfdd035460.png"/>
+
+  <img src="https://user-images.githubusercontent.com/97397013/184802141-83f51c4a-318a-4bfa-8fb1-f24ca9a65a2d.png" />
 
 * **빙고** : 매달 업데이트 되는 빙고를 통한 영화 추천
 
   <img src="https://user-images.githubusercontent.com/97397013/184765622-e059ad4e-f8e8-431e-b02b-8440953c970a.png"/>
 
+* **프로필** : 지금까지 리뷰를 작성한 장르 통계 및 최근 리뷰 표시
 
+  <img src="https://user-images.githubusercontent.com/97397013/184802163-169f99a1-2d30-415e-92f7-c74b35872e31.png" />
+
+  <img src="https://user-images.githubusercontent.com/97397013/184802183-3657e55c-8f81-49b0-ab88-a6524f266171.png" />
 
 ### 소통
 
